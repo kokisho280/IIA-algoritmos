@@ -1,0 +1,8 @@
+pop: 100
+pm_swap: 0.2
+pm_ins: 0.1
+pm_inv: 0.05
+pr: 0.8
+
+t_size: 2
+max_gen: 2500
